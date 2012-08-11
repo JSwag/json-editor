@@ -1,0 +1,25 @@
+{
+	"articles" : [
+		{
+			"id" : 0,
+			"title" : "How we work",
+			"articleTitle" : "MHI offers you a true partnership with the best of McKinsey's world-class healthcare expertise, provided exclusively in a form that's affordable for supporting long-term change in NHS hospitals.",
+			"colLeft" : "We first establish <strong>where you are now</strong> – your capabilities for change, benchmarked performance, most pressing challenges and immediate priorities – and then work out <strong>where you need to be</strong> in future – your NHS obligations,",
+			"colRight" : "statutory targets, patient needs and staff expectations. The role of MHI is to help you get from 'here' to 'there' in an efficient, workable way.<br/><br/>We succeed because we understand your multi-faceted and conflicting pressures – both from inside the organisation (e.g., improving quality, reducing costs, streamlining operations and motivating the workforce through the change process), and from outside the organisation – regulators, politicians, NHS targets and professional standards.<br/><br/>It is in this context that we build a mutual understanding of where you are, where you need to be and how best to get there.",
+			"image" : "approach_1.png",
+			"imageClass" : "img-approach-1",
+			"imageHeight" : "209"
+		},
+
+		{
+			"id" : 1,
+			"title" : "The Performance Diamond",
+			"articleTitle" : "We have developed an analytical tool called 'The Performance Diamond', a unique embodiment of our holistic approach to transformation.",
+			"colLeft" : "Guided by The Performance Diamond, the process we undertake together is evenly distributed across the four facets of hospital performance – <strong>Quality, Operations, Workforce</strong> and <strong>Finance</strong> – with different areas of focus at different stages.<br/><br/>At a glance, this diagram captures and measures where you are now and where you need to be, giving everyone leading the transformation a clear and concise vision to which they can adhere throughout the change process. It carefully balances the impact of reforms, delivering sustainable and mutually-reinforcing performance gains. <br/><br/>Most importantly, the diamond builds consensus around the hospital's full potential for excellence.",
+			"colRight" : "Lastly, The Performance Diamond is a device for measuring the return on your investment in the improvement programme. MHI's experience is that you can expect to see, over time, a five-fold return on your investment.",
+			"image" : "approach_2.png",
+			"imageClass" : "img-approach-2",
+			"imageHeight" : "279"
+		}
+	]
+}

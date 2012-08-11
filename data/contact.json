@@ -1,0 +1,25 @@
+{
+	"content" : {
+		"title" : "For more information on how we can transform your hospital's performance, please don't hesitate to contact us",
+		"tel" : {
+			"title" : "Telephone",
+			"name" : "Neil Griffiths",
+			"number" : "020 7961 5571"
+		},
+		"email" : {
+			"title" : "Email",
+			"address" : "mhi_uk@mckinsey.com"
+		},
+		"address" : {
+			"title" : "Address",
+			"name" : "McKinsey Hospital Institute<br/>McKinsey &amp; Company<br/>1 Jermyn Street<br/>London SW1Y 4UH",
+			"link" : "https://maps.google.co.uk/maps?q=1+Jermyn+Street+London+SW1Y+4UH&ie=UTF8&hq=&hnear=1+Jermyn+St,+London+SW1Y+4UH,+United+Kingdom&gl=uk&t=h&z=16&vpsrc=0"
+		},
+		"quote" : {
+			"author" : "Neil Griffiths",
+			"position" : "McKinsey Hospital Institute",
+			"text" : "If you have any question about becoming a member or would like to talk about how MHI can help your hospital, just give me a call.",
+			"image" : "contact_neil-griffiths.png"
+		}
+	}
+}

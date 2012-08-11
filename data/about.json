@@ -1,0 +1,139 @@
+{
+	"articles" : [
+		{
+			"id" : 0,
+			"title" : "Who we are",
+			"articleTitle" : "MHI in the UK is part of a global McKinsey initiative to serve hospitals in a new way &mdash; recognising that it takes time truly to transform the performance of any hospital",
+			"colLeft" : "The MHI initiative is being implemented in four countries – the US, Germany, France and the UK –and each country is applying a different mix of data analysis, capability building and change management. In the UK, the mix has been specifically tailored to the NHS.<br/><br/>MHI UK improvement programmes typically comprise three phases:",
+			"colRight" : "<strong>Diagnostic phase</strong> – applying tools to help understand performance and organisational health; <strong>Design phase</strong> – constructing solutions for definable improvement; and <strong>Delivery phase</strong> – achieving impact through a combination of capability building and intervention. We also bring together these approaches, and share knowledge and perspectives, through MHI Improvement Communities of member hospitals.",
+			"image" : "about_1.png",
+			"imageClass" : "left",
+			"imageHeight" : "149"
+		},
+		{
+			"id" : 1,
+			"title" : "Why we are different",
+			"articleTitle" : "What's distinctive about our approach is that we create a true partnership with hospital leaders to achieve transformation.",
+			"colLeft" : "Hospitals who engage us become effectively our 'shareholders,' setting our priorities, shaping the way we work, and most importantly identifying the improvement challenges they each want",
+			"colRight" : " to address as a priority. We also commit to work at a pace determined by the hospital leadership – but with sufficient momentum to ensure impact and deliver results.",
+			"image" : "about_2.png",
+			"imageClass" : "left",
+			"imageHeight" : "257"
+		}
+	],
+
+	"team" : [
+		{
+			"id" : 0,
+			"firstname" : "John",
+			"lastname" : "Drew",
+			"image" : "john-drew.jpg",
+			"position" : "CEO",
+			"description" : "John, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 1,
+			"firstname" : "Neil",
+			"lastname" : "Griffiths",
+			"image" : "neil-griffiths.jpg",
+			"position" : "",
+			"description" : "Neil, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 2,
+			"firstname" : "Julia",
+			"lastname" : "Fishman",
+			"image" : "julian-fishman.jpg",
+			"position" : "",
+			"description" : "Julia, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 3,
+			"firstname" : "Nikunj",
+			"lastname" : "Dodhia",
+			"image" : "nikunj-dodhia.jpg",
+			"position" : "",
+			"description" : "Nikunj, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 4,
+			"firstname" : "Kirstin",
+			"lastname" : "Liefeldt",
+			"image" : "kirstin-liefeldt.jpg",
+			"position" : "",
+			"description" : "Kirstin, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 5,
+			"firstname" : "Tania",
+			"lastname" : "Romeu",
+			"image" : "tania-romeu.jpg",
+			"position" : "",
+			"description" : "Tania, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 6,
+			"firstname" : "Omar",
+			"lastname" : "Najim",
+			"image" : "omar-najim.jpg",
+			"position" : "",
+			"description" : "Omar, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 7,
+			"firstname" : "Naveen",
+			"lastname" : "Sharma",
+			"image" : "naveen-sharma.jpg",
+			"position" : "",
+			"description" : "Naveen, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 8,
+			"firstname" : "Markus",
+			"lastname" : "Bergman",
+			"image" : "markus-bergman.jpg",
+			"position" : "",
+			"description" : "Markus, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 9,
+			"firstname" : "Amy",
+			"lastname" : "Pianta",
+			"image" : "amy-pianta.jpg",
+			"position" : "",
+			"description" : "Amy, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 10,
+			"firstname" : "Marco",
+			"lastname" : "Avila",
+			"image" : "marco-avila.jpg",
+			"position" : "",
+			"description" : "Marco, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 11,
+			"firstname" : "Benedict",
+			"lastname" : "Evans",
+			"image" : "benedict-evans.jpg",
+			"position" : "",
+			"description" : "Benedict, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 12,
+			"firstname" : "Joseph",
+			"lastname" : "Gottfried",
+			"image" : "joseph-gottfried.jpg",
+			"position" : "",
+			"description" : "Joseph, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		},
+		{
+			"id" : 13,
+			"firstname" : "Sachin",
+			"lastname" : "Rastogi",
+			"image" : "sachin-rastogi.jpg",
+			"position" : "",
+			"description" : "Sachin, a senior expert in McKinsey's healthcare team, leads the development of MHI in the UK.<br/><br/>He joined the MHI team in April 2010, having previously worked in a number of hospital operational and strategic roles in the NHS and private sector. Neil has extensive practical hospital management experience gained over the last 17 years. This has included day-to-day responsibility for the performance of hospital clinical services, managing complex service and strategic change, and the development of hospital commercial strategies."
+		}
+	]
+}

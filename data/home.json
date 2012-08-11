@@ -1,0 +1,73 @@
+{
+	"content" : [
+		{
+			"title" : "We offer a unique, partnership approach to transforming your hospital's performance",
+			"quote" : {
+				"text" : "MHI identifies and helps build consensus on your hospital's true potential &mdash; for achieving and maintaining improvement, and in striving for excellence.",
+				"author" : "John Drew",
+				"position" : "McKinsey Hospital Institute",
+				"image" : "home_john-drew.png"
+			},
+			"linkSlide" : "Find out how we work in 4 clicks",
+			"textLeft" : "McKinsey &amp; Company has helped countless organisations to improve their performance through rigorous, fact-based problem solving.<br/><br/>We created the McKinsey Hospital Institute (MHI) in the UK specifically to serve NHS ",
+			"textRight" : "hospitals – as their long-term partners in performance transformation. We quantify each hospital's potential for improvement, apply proven change methods, apply a balanced view of performance, and build a culture of improvement amongst managers and clinicians.",
+			"newsTitle" : "News &amp; Events",
+			"back" : "Back"
+		}
+	],
+
+	"slides" : [
+		{
+			"title" : "Our approach is measurable",
+			"text" : "Everything we do will be quantifed, so you will be able to know when and where there's been real impact on your hospital's performance. This also means that our contribution to your transformation is always manageable, measurable, value-for-money and sustainable.",
+			"image" : "slide_1.png"
+		},
+		{
+			"title" : "Our method is balanced",
+			"text" : "We thoughtfully balance all aspects of hospital performance: <strong>Quality, Operations, Workforce</strong> and <strong>Finance</strong>. We begin with this holistic perspective before zeroing in on specific areas needing reform. We measure success across all four areas, so that performance gains in each are mutually reinforcing.",
+			"image" : "slide_2.png"
+		},
+		{
+			"title" : "Our impact is proven",
+			"text" : "Drawn from decades of experience with hospitals and health systems around the world, we bring to you proven processes for managing change and delivering impact - including a deep evidence-base that will convince sceptical colleagues to join your improvement journey.",
+			"image" : "slide_3.png"
+		},
+		{
+			"title" : "Our goal is ongoing improvement",
+			"text" : "While we're supporting your transformation, we work with you to build a permanent culture of improvement in your hospital. We involve your key managers and clinicians, to energise, empower and equip them to carry on reforming and improving.",
+			"image" : "slide_4.png"
+		}
+	],
+
+	"video" : {
+		"title" : "Video introduction",
+		"url" : "video.mp4"
+	},
+
+	"news" : [
+		{
+			"title" : "McKinsey Hospital Institute Summit 2012 - <em>Hospistals as Improvement Engines</em>",
+			"date" : "Posted: 12 December 2011",
+			"excerpt" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt. ",
+			"text" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt.<br/><br/>Lorem ipsum fugiat eu nostrud in aliquip sunt et <strong>ex fugiat. Lorem ipsum tempor Excepteur</strong> mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt.<br/><br/><ul><li>Lorem Ipsum</li><li>Lorem Ipsum</li></ul><br/>Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris <a href=\"#\">nostrud sit sunt</a>.<br/><br/>",
+			"linkText" : "Read More",
+			"link" : "mhi-summit-2012"
+		},
+		{
+			"title" : "Lorem ipsum in est aliquip qui labore sit aute. ",
+			"date" : "Posted: 2 November 2011",
+			"excerpt" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt. ",
+			"text" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt. ",
+			"linkText" : "Read More",
+			"link" : "lorem-2012"
+		},
+		{
+			"title" : "Lorem ipsum in est aliquip qui labore sit aute. ",
+			"date" : "Posted: 2 November 2011",
+			"excerpt" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt. ",
+			"text" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt. ",
+			"linkText" : "Read More",
+			"link" : "ipsum-2012"
+		}
+	]
+}

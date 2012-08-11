@@ -1,0 +1,107 @@
+{
+	"articles" : [
+		{
+			"id" : 0,
+			"title" : "MHI Improvement Community",
+			"articleTitle" : "The MHI Improvement Community is a network of like-minded NHS hospital leader- ship teams committed to their hospitals’ collective and continuous improvement.<br/>The network aims to be the leading edge of transformational change in the NHS.",
+			"topText" : "The members of the MHI Improvement Community function as a ‘knowledge network’ in three ways:",
+			"colLeft" : "MHI shares its best global hospital knowledge and experience with all the community’s members.",
+			"colMiddle" : "The Improvement Community convenes member hospitals in offering one another support and advice.",
+			"colRight" : "Member hospitals report their own insights, experiences and successes to MHI to be aggregated and disseminated to others.",
+			"image" : "improvement_1.png",
+			"imageClass" : "img-improvement-1",
+			"imageHeight" : "185"
+		}
+	],
+
+	"slides" : {
+		"title" : "The benefits of membership",
+		"articleTitle" : "Being a member of the MHI Improvement Community offers 8 benefits",
+		"content" : [
+			{
+				"index" : 1,
+				"text" : "A dedicated MHI Regional Director ensures you make the best use of the community and will be able to share perspectives on your improvement plans",
+				"dots" : [
+					"Each Director is a very experienced hospital management expert.", 
+					"They work at board level with each member Trust.",
+					"They help by convening and chairing member meetings, running workshops and helping to plan new member initiatives."
+				]
+			},
+			{
+				"index" : 2,
+				"text" : "An MHI Healthcheck for your Trust, benchmarking your hospital against your peers and highlighting your areas of strength and opportunities for improvement",
+				"dots" : [
+					"The Healthcheck covers over 100 performance indicators across four areas: Quality, Operations, Workforce and Finance", 
+					"Available annually for measuring improvement over time, relative to peers and the wider NHS."
+				]
+			},
+			{
+				"index" : 3,
+				"text" : "Year-long MHI Improvement Networks, comprising sub-groups of the Community wishing to investigate specific areas for improvement in great depth through workshops and knowledge exchanges",
+				"dots" : [
+					"Networks have focused on such topics as: ‘Ideal theatres’, Medical Productivity, Integrated Care, and Service Line Management", 
+					"Typically involve senior Trust leaders and clinicians."
+				]
+			},
+			{
+				"index" : 4,
+				"text" : "Access to HospitalKnowledge.net, an online knowledge-sharing network for exchanging best practices, new ideas, evidence and insights on hospital improvement",
+				"dots" : [
+					"Available to all staff of member Trusts", 
+					"Showcase your improvement ideas, achievements and knowledge sharing initiatives  -- Expand upon and keep improvement efforts alive between network events."
+				]
+			},
+			{
+				"index" : 5,
+				"text" : "Invitations to MHI regional and national events, themed by hospital function and region, bringing together senior executives from across the MHI Improvement Community for learning and personal networking",
+				"dots" : [
+					"Members are welcome to suggest attendees, topics and themes", 
+					"Can be used by members to reward ‘rising stars’ or simply to engage with one’s own colleagues off-site."
+				]
+			},
+			{
+				"index" : 6,
+				"text" : "The web-based MHI Knowledge Bank, a repository of hundreds of case studies, how-to improvement guides, and organisational change management tools not available elsewhere",
+				"dots" : [
+					"A full-searchable and comprehensively tagged database of information, as well as an aggregation of relevant published material from McKinsey and across the healthcare world", 
+					"Up to 20 people from each Member Trust can be registered users",
+					"‘Knowledge request’ to McKinsey for content not yet available."
+				]
+			},
+			{
+				"index" : 7,
+				"text" : "Monthly MHI Webinars (online seminars) on key hospital improvement topics of current interest selected by MHI Improvement Community members", 
+				"dots" : [
+					"Generally available to all staff of each Trust member", 
+					"Can be accessed from any broadband-connected PC and, for example, can be projected from that PC to an audience in a Trust meeting room."
+				]
+			},
+			{
+				"index" : 8,
+				"text" : "Annual MHI International Study Tour, comprising a guided tour for member executives to explore and examine recognised best-practice hospital operations and approaches around the world",
+				"dots" : [
+					"All tour organisation, administration and guidance is provided by MHI", 
+					"Open to up to 5 senior managers in each member Trust (their personal travel and accommodation costs are borne by the Trust)",
+					"Meet and ask detailed questions of successful leaders and practitioners."
+				]
+			}
+		]
+	},
+
+	"join" : {
+		"title" : "Join the MHI Improvement Community",
+		"subtitle" : "Joining the MHI Improvement Community may not be right for everyone",
+		"articleTop" : "We want to make sure this is right for your hospital. MHI has three levels of involvement and we apply a joining process to help identify which level will be most effective for you. This process includes:",
+		"list" : [
+			"An MHI visit to your top team",
+			"An agreement on priorities and objectives",
+			"The identification of key participants"
+		],
+		"quote" : {
+			"author" : "Julia Fishman",
+			"position" : "McKinsey Hospital Institute",
+			"image" : "improvement_julia-fishman.png",
+			"text" : "MHI Improvement Community helps interested NHS hospitals to join forces with McKinsey - through sharing perspectives and knowledge - in the pursuit of sustainable transformation."
+		}
+	}
+}
