@@ -1,0 +1,29 @@
+{
+	"items" : [
+		{
+			"label" : "Home",
+			"url" : "home.json"
+		},
+		{
+			"label" : "About",
+			"url" : "about.json"
+		},
+		{
+			"label" : "Approach",
+			"url" : "approach.json"
+		},
+		{
+			"label" : "Improvement",
+			"url" : "improvement.json"
+		},
+		{
+			"label" : "Contact",
+			"url" : "contact.json"
+		}
+	],
+
+	"path" : {
+		"data" : "../data/",
+		"img" : "../img/"
+	}
+}

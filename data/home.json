@@ -2,17 +2,17 @@
 	"content" : [
 		{
 			"title" : "We offer a unique, partnership approach to transforming your hospital's performance",
+			"linkSlide" : "Find out how we work in 4 clicks",
+			"textLeft" : "McKinsey &amp; Company has helped countless organisations to improve their performance through rigorous, fact-based problem solving.<br/><br/>We created the McKinsey Hospital Institute (MHI) in the UK specifically to serve NHS ",
+			"textRight" : "hospitals – as their long-term partners in performance transformation. We quantify each hospital's potential for improvement, apply proven change methods, apply a balanced view of performance, and build a culture of improvement amongst managers and clinicians.",
+			"newsTitle" : "News &amp; Events",
+			"back" : "Back",
 			"quote" : {
 				"text" : "MHI identifies and helps build consensus on your hospital's true potential &mdash; for achieving and maintaining improvement, and in striving for excellence.",
 				"author" : "John Drew",
 				"position" : "McKinsey Hospital Institute",
 				"image" : "home_john-drew.png"
-			},
-			"linkSlide" : "Find out how we work in 4 clicks",
-			"textLeft" : "McKinsey &amp; Company has helped countless organisations to improve their performance through rigorous, fact-based problem solving.<br/><br/>We created the McKinsey Hospital Institute (MHI) in the UK specifically to serve NHS ",
-			"textRight" : "hospitals – as their long-term partners in performance transformation. We quantify each hospital's potential for improvement, apply proven change methods, apply a balanced view of performance, and build a culture of improvement amongst managers and clinicians.",
-			"newsTitle" : "News &amp; Events",
-			"back" : "Back"
+			}
 		}
 	],
 
@@ -42,32 +42,5 @@
 	"video" : {
 		"title" : "Video introduction",
 		"url" : "video.mp4"
-	},
-
-	"news" : [
-		{
-			"title" : "McKinsey Hospital Institute Summit 2012 - <em>Hospistals as Improvement Engines</em>",
-			"date" : "Posted: 12 December 2011",
-			"excerpt" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt. ",
-			"text" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt.<br/><br/>Lorem ipsum fugiat eu nostrud in aliquip sunt et <strong>ex fugiat. Lorem ipsum tempor Excepteur</strong> mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt.<br/><br/><ul><li>Lorem Ipsum</li><li>Lorem Ipsum</li></ul><br/>Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris <a href=\"#\">nostrud sit sunt</a>.<br/><br/>",
-			"linkText" : "Read More",
-			"link" : "mhi-summit-2012"
-		},
-		{
-			"title" : "Lorem ipsum in est aliquip qui labore sit aute. ",
-			"date" : "Posted: 2 November 2011",
-			"excerpt" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt. ",
-			"text" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt. ",
-			"linkText" : "Read More",
-			"link" : "lorem-2012"
-		},
-		{
-			"title" : "Lorem ipsum in est aliquip qui labore sit aute. ",
-			"date" : "Posted: 2 November 2011",
-			"excerpt" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt. ",
-			"text" : "Lorem ipsum fugiat eu nostrud in aliquip sunt et ex fugiat. Lorem ipsum tempor Excepteur mollit officia minim dolore fugiat est in anim proident Duis anim minim. Lorem ipsum mollit Duis est nisi incididunt est id sint Duis velit velit aliqua culpa minim deserunt. Lorem ipsum consectetur nostrud Ut id eiusmod sed mollit aliquip veniam irure aliquip laboris nostrud sit sunt. ",
-			"linkText" : "Read More",
-			"link" : "ipsum-2012"
-		}
-	]
+	}
 }
